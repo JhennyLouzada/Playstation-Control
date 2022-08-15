@@ -5,6 +5,8 @@ https://user-images.githubusercontent.com/99519586/184690384-931b4730-32e3-48f6-
 
 
 
+- Link da Aplicação: https://jhennylouzada.github.io/Playstation-Control/
+
 
 # 🚀 Technologies
 Este projeto foi desenvolvido com as seguintes tecnologias:
